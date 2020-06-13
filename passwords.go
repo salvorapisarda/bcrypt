@@ -22,7 +22,7 @@ func main() {
 	}
 	end := time.Now()
 	elapsed := end.Sub(start).Seconds()
-	fmt.Printf("time %s elapsed %d \n", time.Now(), elapsed)
+	fmt.Printf("time: %s - elapsed (s): %f \n", time.Now(), elapsed)
 }
 
 func HashPassword(password string) (string, error) {
