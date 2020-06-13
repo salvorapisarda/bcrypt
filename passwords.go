@@ -1,4 +1,4 @@
-package srcrypt
+package main
 
 import (
 	"fmt"
