@@ -1,1 +1,3 @@
 # bcrypt
+
+>go build .; ./srcrypt;  
