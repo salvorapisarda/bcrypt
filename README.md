@@ -1,4 +1,4 @@
-# bcrypt
+# SrCrypt
 
 Testing go bcrypt library 
 
